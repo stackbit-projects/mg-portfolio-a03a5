@@ -2,7 +2,7 @@
 title: Happy Hour YouTube
 excerpt: Jamie Ivey requested this song. Blah Blah Blah... More Content.
 date: '2020-12-28'
-content_img_path: images/1.jpg
+content_img_path: images/elite-cabbage.png
 template: post
 ---
 <div id="cp_widget_5e554fb9-4853-4bc8-8a7d-39f643b8721c">...</div><script type="text/javascript">
