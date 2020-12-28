@@ -1,9 +1,6 @@
 ---
 title: Happy Hour YouTube
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: Jamie Ivey requested this song. Blah Blah Blah... More Content.
 date: '2020-12-28'
 content_img_path: images/1.jpg
 template: post
